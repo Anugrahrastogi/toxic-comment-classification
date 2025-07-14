@@ -30,7 +30,7 @@ This project is part of the final term project for the Applied Artificial Intell
 ### 🔁 Workflow Instructions
 1. **Clone the repo**:  
    
-   - git clone https://github.com/dhrubsatyam/customer-credit-default-prediction.git
+   - [git clone https://github.com/dhrubsatyam/customer-credit-default-prediction.git]
    
    - cd toxic-comment-classification
 
