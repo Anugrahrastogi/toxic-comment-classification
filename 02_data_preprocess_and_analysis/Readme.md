@@ -1,6 +1,6 @@
 # Data Preprocessing and Exploratory Analysis for Toxic Comment Classification
 
-This notebook performs data cleaning and exploratory data analysis (EDA) for the [Jigsaw Toxic Comment Classification Challenge](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge). It prepares the dataset for downstream machine learning and deep learning models.
+This notebook performs data cleaning and exploratory data analysis (EDA) for the **Toxic Comment Classification**. It prepares the dataset for downstream machine learning and deep learning models.
 
 ---
 
