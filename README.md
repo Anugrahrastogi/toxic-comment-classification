@@ -94,7 +94,9 @@ This project is part of the final term project for the Applied Artificial Intell
 
 | Component           | Weight | Description |
 |---------------------|--------|-------------|
-| **Technical Report** | 50% (90 pts) | Well-structured, includes all required sections, correct analysis |
-| **Python Code**      | 30% (54 pts) | Error-free, well-commented, readable, reproducible |
-| **Team Presentation**| 20% (36 pts) | Clear, professional, aimed at non-technical audience, shared participation |
+| **Project selection and setup, including dataset, objectives, and approach** | 15% (35.25 pts) | Clearly stated objectives, feasible approach, available dataset, properly scoped. |
+| **AI and Machine Learning algorithm descriptions, theory, and source code**      | 25% (58.75 pts) | Clear algorithms description, explicit discussion of the theory with proper mathematical/logical composition, with well-documented source code. |
+| **Execution and output, implementing proper AI and Machine Learning algorithms** | 25% (58.75 pts) | Program code executes on sample data; produced a complete dataset from multiple runs over the dataset. |
+| **Analyzing the AI and Machine Learning methods and providing results and conclusions** | 20% (47 pts) | Well-presented results, accurate conclusions, successful project outcomes. |
+| **Report format, citations, and content** | 15% (35.25 pts) | Proper length, citations, and professional presentation. |
 
